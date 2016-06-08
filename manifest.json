@@ -1,0 +1,31 @@
+{
+    "info": {
+        "name": "locksofmanyhair",
+        "version": 2
+    },
+
+    "default_locale" : "en",
+     
+    "overrides": {
+        "/stonehearth/entities/humans/female/female_1.json": "/locksofmanyhair/entities/humans/female/female_1.json",
+        "/stonehearth/entities/humans/female/female_2.json": "/locksofmanyhair/entities/humans/female/female_2.json",
+        "/stonehearth/entities/humans/female/female_3.json": "/locksofmanyhair/entities/humans/female/female_3.json",
+        "/stonehearth/entities/humans/female/female_npc_1.json": "/locksofmanyhair/entities/humans/female/female_npc_1.json",
+        "/stonehearth/entities/humans/male/male_1.json": "/locksofmanyhair/entities/humans/male/male_1.json",
+        "/stonehearth/entities/humans/male/male_2.json": "/locksofmanyhair/entities/humans/male/male_2.json",
+        "/stonehearth/entities/humans/male/male_3.json": "/locksofmanyhair/entities/humans/male/male_3.json",
+        "stonehearth/data/materials/material_maps/hair_blue_material_map.json" : "file(/data/materials/material_maps/hair_blue_material_map.json)",
+        "stonehearth/data/materials/material_maps/hair_green_material_map.json" : "file(/data/materials/material_maps/hair_green_material_map.json)",
+        "stonehearth/data/materials/material_maps/hair_grey_material_map.json" : "file(/data/materials/material_maps/hair_grey_material_map.json)",
+        "stonehearth/data/materials/material_maps/hair_ginger_material_map.json" : "file(/data/materials/material_maps/hair_ginger_material_map.json)",
+        "stonehearth/data/materials/material_maps/hair_ice_material_map.json" : "file(/data/materials/material_maps/hair_ice_material_map.json)",
+        "stonehearth/data/materials/material_maps/hair_lavender_material_map.json" : "file(/data/materials/material_maps/hair_lavender_material_map.json)",
+        "stonehearth/data/materials/material_maps/hair_lime_material_map.json" : "file(/data/materials/material_maps/hair_lime_material_map.json)",
+        "stonehearth/data/materials/material_maps/hair_orange_material_map.json" : "file(/data/materials/material_maps/hair_orange_material_map.json)",
+        "stonehearth/data/materials/material_maps/hair_pink_material_map.json" : "file(/data/materials/material_maps/hair_pink_material_map.json)",
+        "stonehearth/data/materials/material_maps/hair_purple_material_map.json" : "file(/data/materials/material_maps/hair_purple_material_map.json)",
+        "stonehearth/data/materials/material_maps/hair_silver_material_map.json" : "file(/data/materials/material_maps/hair_silver_material_map.json)",
+        "stonehearth/data/materials/material_maps/hair_white_material_map.json" : "file(/data/materials/material_maps/hair_white_material_map.json)",
+        "stonehearth/data/materials/material_maps/hair_crazy_material_map.json" : "file(/data/materials/material_maps/hair_crazy_material_map.json)"
+    }
+}
