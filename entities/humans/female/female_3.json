@@ -17,10 +17,10 @@
                      "/stonehearth/data/materials/material_maps/hair_red_material_map.json",
                      "/stonehearth/data/materials/material_maps/hair_black_material_map.json",
                      "/stonehearth/data/materials/material_maps/hair_blue_material_map.json",
-                     "/stonehearth/data/materials/material_maps/hair_ginger_material_map.json",
                      "/stonehearth/data/materials/material_maps/hair_green_material_map.json",
                      "/stonehearth/data/materials/material_maps/hair_grey_material_map.json",
                      "/stonehearth/data/materials/material_maps/hair_ice_material_map.json",
+                     "/stonehearth/data/materials/material_maps/hair_icki_material_map.json",
                      "/stonehearth/data/materials/material_maps/hair_lavender_material_map.json",
                      "/stonehearth/data/materials/material_maps/hair_lime_material_map.json",
                      "/stonehearth/data/materials/material_maps/hair_orange_material_map.json",
@@ -28,6 +28,7 @@
                      "/stonehearth/data/materials/material_maps/hair_purple_material_map.json",
                      "/stonehearth/data/materials/material_maps/hair_silver_material_map.json",
                      "/stonehearth/data/materials/material_maps/hair_crazy_material_map.json",
+                     "/stonehearth/data/materials/material_maps/hair_crazy2_material_map.json",
                      "/stonehearth/data/materials/material_maps/hair_white_material_map.json"
 
                   ]
@@ -55,6 +56,7 @@
                      "file(hair_8bit_largepony.qb)",
                      "file(hair_8bit_sideshave.qb)",
                      "file(hair_8bit_smallbun.qb)",
+                     "file(hair_8kitty_loom.qb)",
                      "file(hair_kitty_bandit.qb)",
                      "file(hair_kitty_beehive.qb)",
                      "file(hair_kitty_bejeweled.qb)",
