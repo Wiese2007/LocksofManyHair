@@ -1,94 +1,112 @@
 {
-   "mixins": "stonehearth:mixins:base_human", 
-   "type": "entity", 
+   "mixins": "stonehearth:mixins:base_human",
+   "type": "entity",
    "components": {
-      "render_info" : {
-         "animation_table" : "stonehearth:skeletons:humanoid:female",
+      "render_info": {
+         "animation_table": "stonehearth:skeletons:humanoid:female",
          "model_variant": "female",
          "material_maps": [
-               "/stonehearth/data/materials/material_maps/skin_brown1_material_map.json",
-               {
-                  "type": "one_of",
-                  "items": [
-                     "/stonehearth/data/materials/material_maps/hair_platinum_material_map.json",
-                     "/stonehearth/data/materials/material_maps/hair_blonde_material_map.json",
-                     "/stonehearth/data/materials/material_maps/hair_sandy_material_map.json",
-                     "/stonehearth/data/materials/material_maps/hair_brown_material_map.json",
-                     "/stonehearth/data/materials/material_maps/hair_red_material_map.json",
-                     "/stonehearth/data/materials/material_maps/hair_black_material_map.json",
-                     "/stonehearth/data/materials/material_maps/hair_blue_material_map.json",
-                     "/stonehearth/data/materials/material_maps/hair_green_material_map.json",
-                     "/stonehearth/data/materials/material_maps/hair_grey_material_map.json",
-                     "/stonehearth/data/materials/material_maps/hair_ice_material_map.json",
-                     "/stonehearth/data/materials/material_maps/hair_icki_material_map.json",
-                     "/stonehearth/data/materials/material_maps/hair_lavender_material_map.json",
-                     "/stonehearth/data/materials/material_maps/hair_lime_material_map.json",
-                     "/stonehearth/data/materials/material_maps/hair_orange_material_map.json",
-                     "/stonehearth/data/materials/material_maps/hair_pink_material_map.json",
-                     "/stonehearth/data/materials/material_maps/hair_purple_material_map.json",
-                     "/stonehearth/data/materials/material_maps/hair_silver_material_map.json",
-                     "/stonehearth/data/materials/material_maps/hair_crazy_material_map.json",
-                     "/stonehearth/data/materials/material_maps/hair_crazy2_material_map.json",
-                     "/stonehearth/data/materials/material_maps/hair_white_material_map.json"
-                  ]
-               }
+            "/stonehearth/data/materials/material_maps/skin_brown1_material_map.json", {
+               "type": "one_of",
+               "items": [
+                  "/stonehearth/data/materials/material_maps/hair_platinum_material_map.json",
+                  "/stonehearth/data/materials/material_maps/hair_blonde_material_map.json",
+                  "/stonehearth/data/materials/material_maps/hair_sandy_material_map.json",
+                  "/stonehearth/data/materials/material_maps/hair_brown_material_map.json",
+                  "/stonehearth/data/materials/material_maps/hair_red_material_map.json",
+                  "/stonehearth/data/materials/material_maps/hair_black_material_map.json",
+                  "/stonehearth/data/materials/material_maps/hair_blue_material_map.json",
+                  "/stonehearth/data/materials/material_maps/hair_green_material_map.json",
+                  "/stonehearth/data/materials/material_maps/hair_grey_material_map.json",
+                  "/stonehearth/data/materials/material_maps/hair_greyscale_material_map.json",
+                  "/stonehearth/data/materials/material_maps/hair_ice_material_map.json",
+                  "/stonehearth/data/materials/material_maps/hair_icki_material_map.json",
+                  "/stonehearth/data/materials/material_maps/hair_lavender_material_map.json",
+                  "/stonehearth/data/materials/material_maps/hair_lime_material_map.json",
+                  "/stonehearth/data/materials/material_maps/hair_orange_material_map.json",
+                  "/stonehearth/data/materials/material_maps/hair_pink_material_map.json",
+                  "/stonehearth/data/materials/material_maps/hair_purple_material_map.json",
+                  "/stonehearth/data/materials/material_maps/hair_silver_material_map.json",
+                  "/stonehearth/data/materials/material_maps/hair_crazy_material_map.json",
+                  "/stonehearth/data/materials/material_maps/hair_crazy2_material_map.json",
+                  "/stonehearth/data/materials/material_maps/hair_flame_material_map.json",
+                  "/stonehearth/data/materials/material_maps/hair_white_material_map.json"
+               ]
+            }
          ]
       },
       "model_variants": {
          "default": {
             "models": [
                "file(head.qb)",
-               {
-                  "type": "one_of",
-                  "items": [
-                     "file(hair_1.qb)",
-                     "file(hair_2.qb)",
-                     "file(hair_3.qb)",
-                     "file(hair_4.qb)",
-                     "file(hair_5.qb)",
-                     "file(hair_6.qb)",
-                     "file(hair_7.qb)",
-                     "file(hair_8.qb)",
-                     "file(hair_8bit_doubletail.qb)",
-                     "file(hair_8bit_hawk1.qb)",
-                     "file(hair_8bit_hawk2.qb)",
-                     "file(hair_8bit_largebun.qb)",
-                     "file(hair_8bit_largepony.qb)",
-                     "file(hair_8bit_sideshave.qb)",
-                     "file(hair_8bit_smallbun.qb)",
-                     "file(hair_8kitty_loom.qb)",
-                     "file(hair_kitty_bandit.qb)",
-                     "file(hair_kitty_beehive.qb)",
-                     "file(hair_kitty_bejeweled.qb)",
-                     "file(hair_kitty_boycut.qb)",
-                     "file(hair_kitty_dreads.qb)",
-                     "file(hair_kitty_fancyhigh.qb)",
-                     "file(hair_kitty_fancyshaggy.qb)",
-                     "file(hair_kitty_fancyshave.qb)",
-                     "file(hair_kitty_fancyweave.qb)",
-                     "file(hair_kitty_geeky.qb)",
-                     "file(hair_kitty_geeky2.qb)",
-                     "file(hair_kitty_long.qb)",
-                     "file(hair_kitty_mischiefhelmet.qb)",
-                     "file(hair_kitty_ornate.qb)",
-                     "file(hair_kitty_princess.qb)",
-                     "file(hair_kitty_queen.qb)",
-                     "file(hair_kitty_ribbons.qb)",
-                     "file(hair_kitty_scigyptech.qb)",
-                     "file(hair_kitty_simpleshag.qb)",
-                     "file(hair_kitty_workout.qb)",
-                     "file(hair_kitty_xena.qb)",
-                     "file(hair_kitty_geeky.qb)",
-                     "file(hair_kitty_hazcatband.qb)",
-                     "file(hair_kitty_hazphones1.qb)",
-                     "file(hair_kitty_hazphones2.qb)",
-                     "file(hair_sheep_pixie.qb)",
-                     "file(hair_wiese_emo.qb)"
-                     
-                  ]
-               },
                "file(body.qb)"
             ]
+         }
+      }
+   },
+   "entity_data": {
+      "stonehearth:customization_variants": {
+         "root": {
+            "variants": [
+               ["young", "young", "young"]
+            ]
+         },
+         "young": {
+            "models": [
+               "file(hair_1.qb)",
+               "file(hair_2.qb)",
+               "file(hair_3.qb)",
+               "file(hair_4.qb)",
+               "file(hair_5.qb)",
+               "file(hair_6.qb)",
+               "file(hair_7.qb)",
+               "file(hair_8bit_doubletail.qb)",
+               "file(hair_8bit_hawk1.qb)",
+               "file(hair_8bit_hawk2.qb)",
+               "file(hair_8bit_largebun.qb)",
+               "file(hair_8bit_largepony.qb)",
+               "file(hair_8bit_sideshave.qb)",
+               "file(hair_8bit_smallbun.qb)",
+               "file(hair_8kitty_loom.qb)",
+               "file(hair_kitty_bandit.qb)",
+               "file(hair_kitty_beadrellabloom.qb)",
+               "file(hair_kitty_beehive.qb)",
+               "file(hair_kitty_bejeweled.qb)",
+               "file(hair_kitty_boycut.qb)",
+               "file(hair_kitty_dreads.qb)",
+               "file(hair_kitty_fancyhigh.qb)",
+               "file(hair_kitty_fancyshaggy.qb)",
+               "file(hair_kitty_fancyshave.qb)",
+               "file(hair_kitty_fancyweave.qb)",
+               "file(hair_kitty_geeky.qb)",
+               "file(hair_kitty_geeky2.qb)",
+               "file(hair_kitty_long.qb)",
+               "file(hair_kitty_ornate.qb)",
+               "file(hair_kitty_overbraid.qb)",
+               "file(hair_kitty_princess.qb)",
+               "file(hair_kitty_queen.qb)",
+               "file(hair_kitty_ribbons.qb)",
+               "file(hair_kitty_simpleshag.qb)",
+               "file(hair_kitty_workout.qb)",
+               "file(hair_kitty_xena.qb)",
+               "file(hair_kitty_geeky.qb)",
+               "file(hair_kitty_hazcatband.qb)",
+               "file(hair_kitty_hazphones1.qb)",
+               "file(hair_kitty_hazphones2.qb)",
+               "file(hair_sheep_pixie.qb)",
+               "file(hair_wiese_emo.qb)"
+            ],
+            "variants": [
+               ["nothing", "luxury"]
+            ]
+         },
+         "luxury": {
+            "models": [
+               "file(KoD_necklace.qb)"
+            ]
+         },
+         "nothing": {
+
          }
       }
    }
