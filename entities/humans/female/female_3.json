@@ -68,7 +68,6 @@
                "file(hair_8bit_sideshave.qb)",
                "file(hair_8bit_smallbun.qb)",
                "file(hair_8kitty_loom.qb)",
-               "file(hair_kitty_bandit.qb)",
                "file(hair_kitty_beadrellabloom.qb)",
                "file(hair_kitty_beehive.qb)",
                "file(hair_kitty_bejeweled.qb)",
@@ -86,6 +85,7 @@
                "file(hair_kitty_princess.qb)",
                "file(hair_kitty_queen.qb)",
                "file(hair_kitty_ribbons.qb)",
+               "file(hair_kitty_rogue.qb)",
                "file(hair_kitty_simpleshag.qb)",
                "file(hair_kitty_workout.qb)",
                "file(hair_kitty_xena.qb)",
@@ -97,12 +97,34 @@
                "file(hair_wiese_emo.qb)"
             ],
             "variants": [
-               ["nothing", "luxury"]
+               ["nothing", "Luxury"],
+               ["nothing", "Accessory"]
             ]
          },
-         "luxury": {
+         "Luxury": {
             "models": [
-               "file(KoD_necklace.qb)"
+               "file(KoD_necklace.qb)",
+               "file(KoD_bunnypendant.qb)",
+               "file(KoD_jewelset.qb)",
+               "file(KoD_largemdant.qb)",
+               "file(KoD_sheepling.qb)",
+               "file(KoD_simplecollar.qb)"
+            ]
+         },
+         "Accessory": {
+            "models": [
+               "file(KoD_banditscarf.qb)",
+               "file(KoD_cutebow.qb)",
+               "file(KoD_bunnyface.qb)",
+               "file(KoD_catface.qb)",
+               "file(KoD_fancyknit.qb)",
+               "file(KoD_fancypads.qb)",
+               "file(KoD_jokeglasses.qb)",
+               "file(KoD_jokeglasses2.qb)",
+               "file(KoD_ladyscarf.qb)",
+               "file(KoD_neckerchief.qb)",
+               "file(KoD_readingglasses.qb)",              
+               "file(KoD_simplebow.qb)"
             ]
          },
          "nothing": {
