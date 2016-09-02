@@ -6,29 +6,32 @@
 			"animation_table": "stonehearth:skeletons:humanoid:female",
 			"model_variant": "female",
 			"material_maps": [
-				"/stonehearth/data/materials/material_maps/skin_white_material_map.json", {
+				"/stonehearth/data/materials/material_maps/skin_white_material_map.json", 
+				{
 					"type": "one_of",
 					"items": [
-						"/stonehearth/data/materials/material_maps/hair_platinum_material_map.json",
-						"/stonehearth/data/materials/material_maps/hair_blonde_material_map.json",
-						"/stonehearth/data/materials/material_maps/hair_sandy_material_map.json",
-						"/stonehearth/data/materials/material_maps/hair_brown_material_map.json",
-						"/stonehearth/data/materials/material_maps/hair_red_material_map.json",
-						"/stonehearth/data/materials/material_maps/hair_black_material_map.json",
-						"/stonehearth/data/materials/material_maps/hair_blue_material_map.json",
-						"/stonehearth/data/materials/material_maps/hair_green_material_map.json",
-						"/stonehearth/data/materials/material_maps/hair_grey_material_map.json",
-						"/stonehearth/data/materials/material_maps/hair_ice_material_map.json",
-						"/stonehearth/data/materials/material_maps/hair_icki_material_map.json",
-						"/stonehearth/data/materials/material_maps/hair_lavender_material_map.json",
-						"/stonehearth/data/materials/material_maps/hair_lime_material_map.json",
-						"/stonehearth/data/materials/material_maps/hair_orange_material_map.json",
-						"/stonehearth/data/materials/material_maps/hair_pink_material_map.json",
-						"/stonehearth/data/materials/material_maps/hair_purple_material_map.json",
-						"/stonehearth/data/materials/material_maps/hair_silver_material_map.json",
-						"/stonehearth/data/materials/material_maps/hair_crazy_material_map.json",
-						"/stonehearth/data/materials/material_maps/hair_crazy2_material_map.json",
-						"/stonehearth/data/materials/material_maps/hair_white_material_map.json"
+						"/locksofmanyhair/data/materials/material_maps/hair_platinum_material_map.json",
+						"/locksofmanyhair/data/materials/material_maps/hair_blonde_material_map.json",
+						"/locksofmanyhair/data/materials/material_maps/hair_sandy_material_map.json",
+						"/locksofmanyhair/data/materials/material_maps/hair_brown_material_map.json",
+						"/locksofmanyhair/data/materials/material_maps/hair_red_material_map.json",
+						"/locksofmanyhair/data/materials/material_maps/hair_black_material_map.json",
+						"/locksofmanyhair/data/materials/material_maps/hair_blue_material_map.json",
+						"/locksofmanyhair/data/materials/material_maps/hair_green_material_map.json",
+						"/locksofmanyhair/data/materials/material_maps/hair_grey_material_map.json",
+						"/locksofmanyhair/data/materials/material_maps/hair_greyscale_material_map.json",
+						"/locksofmanyhair/data/materials/material_maps/hair_ice_material_map.json",
+						"/locksofmanyhair/data/materials/material_maps/hair_icki_material_map.json",
+						"/locksofmanyhair/data/materials/material_maps/hair_lavender_material_map.json",
+						"/locksofmanyhair/data/materials/material_maps/hair_lime_material_map.json",
+						"/locksofmanyhair/data/materials/material_maps/hair_orange_material_map.json",
+						"/locksofmanyhair/data/materials/material_maps/hair_pink_material_map.json",
+						"/locksofmanyhair/data/materials/material_maps/hair_purple_material_map.json",
+						"/locksofmanyhair/data/materials/material_maps/hair_silver_material_map.json",
+						"/locksofmanyhair/data/materials/material_maps/hair_crazy_material_map.json",
+						"/locksofmanyhair/data/materials/material_maps/hair_crazy2_material_map.json",
+						"/locksofmanyhair/data/materials/material_maps/hair_flame_material_map.json",
+						"/locksofmanyhair/data/materials/material_maps/hair_white_material_map.json"
 					]
 				}
 			]
@@ -95,11 +98,11 @@
 					"file(hair_wiese_emo.qb)"
 				],
 				"variants": [
-					["nothing", "Luxury"],
-					["nothing", "Accessory"]
+					["nothing", "luxury"],
+					["nothing", "accessory"]
 				]
 			},
-			"Luxury": {
+			"luxury": {
 				"models": [
 					"file(KoD_necklace.qb)",
 					"file(KoD_bunnypendant.qb)",
@@ -109,7 +112,7 @@
 					"file(KoD_simplecollar.qb)"
 				]
 			},
-			"Accessory": {
+			"accessory": {
 				"models": [
 					"file(KoD_banditscarf.qb)",
 					"file(KoD_cutebow.qb)",
