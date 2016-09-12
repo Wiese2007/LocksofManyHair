@@ -13,7 +13,6 @@
         "/stonehearth/entities/humans/female/female_1.json": "/locksofmanyhair/entities/humans/female/female_1.json",
         "/stonehearth/entities/humans/female/female_2.json": "/locksofmanyhair/entities/humans/female/female_2.json",
         "/stonehearth/entities/humans/female/female_3.json": "/locksofmanyhair/entities/humans/female/female_3.json",
-        "/stonehearth/entities/humans/female/female_npc_1.json": "/locksofmanyhair/entities/humans/female/female_nc_1.json",
         "/stonehearth/data/materials/material_maps/hair_blue_material_map.json" : "file(/data/materials/material_maps/hair_blue_material_map.json)",
         "/stonehearth/data/materials/material_maps/hair_crazy_material_map.json" : "file(/data/materials/material_maps/hair_crazy_material_map.json)",
         "/stonehearth/data/materials/material_maps/hair_crazy2_material_map.json" : "file(/data/materials/material_maps/hair_crazy2_material_map.json)",

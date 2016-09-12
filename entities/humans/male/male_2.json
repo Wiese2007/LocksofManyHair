@@ -5,10 +5,10 @@
     "render_info": {
       "animation_table": "stonehearth:skeletons:humanoid:male",
       "material_maps": [
-        "/stonehearth/data/materials/material_maps/skin_brown1_material_map.json", {
+        "/stonehearth/data/materials/material_maps/skin_brown1_material_map.json", 
+        {
           "type": "one_of",
-          "items": 
-          [
+          "items": [
             "/locksofmanyhair/data/materials/material_maps/hair_platinum_material_map.json",
             "/locksofmanyhair/data/materials/material_maps/hair_blonde_material_map.json",
             "/locksofmanyhair/data/materials/material_maps/hair_sandy_material_map.json",
