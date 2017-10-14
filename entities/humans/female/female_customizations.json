@@ -29,7 +29,6 @@
             },
             "platinum": {
                "file": "/stonehearth/data/materials/material_maps/hair_platinum_material_map.json"
-<<<<<<< HEAD
 	    },
             "blue": {
                "file": "/locksofmanyhair/data/materials/material_maps/hair_blue_material_map.json"
@@ -79,9 +78,6 @@
             "white": {
                "file": "/locksofmanyhair/data/materials/material_maps/hair_white_material_map.json" 
             }
-=======
-	    	}
->>>>>>> origin/master
          }
       },
       "skin_color": {
@@ -170,9 +166,36 @@
             "hair_kitty_dreads": {
             "file": "file(hair_kitty_dreads.qb)"
             },
+            "hair_kitty_spiralcurl": {
+            "file": "file(hair_kitty_spiralcurl.qb)"
+            },
+            "hair_kitty_spiralhat": {
+            "file": "file(hair_kitty_spiralhat.qb)"
+            },			
             "hair_kitty_fancyhigh": {
             "file": "file(hair_kitty_fancyhigh.qb)"
             },
+            "hair_kitty_benefactor": {
+            "file": "file(hair_kitty_benefactor.qb)"
+            },
+            "hair_kitty_benefactorlong": {
+            "file": "file(hair_kitty_benefactorlong.qb)"
+            },
+            "hair_kitty_longerfrizzcurls": {
+            "file": "file(hair_kitty_longerfrizzcurls.qb)"
+            },
+            "hair_kitty_longersimplecurls": {
+            "file": "file(hair_kitty_longersimplecurls.qb)"
+            },
+            "hair_kitty_octotail": {
+            "file": "file(hair_kitty_octotail.qb)"
+            },
+            "hair_kitty_omgfrizzcurls": {
+            "file": "file(hair_kitty_omgfrizzcurls.qb)"
+            },
+            "hair_kitty_omgsimplecurls": {
+            "file": "file(hair_kitty_omgsimplecurl.qb)"
+            },		
             "hair_kitty_fancyshaggy": {
             "file": "file(hair_kitty_fancyshaggy.qb)"
             },
@@ -182,12 +205,9 @@
             "hair_kitty_fancyweave": {
             "file": "file(hair_kitty_fancyweave.qb)"
             },
-<<<<<<< HEAD
             "hair_kitty_frizzcurls": {
             "file": "file(hair_kitty_frizzcurls.qb)"
             },            
-=======
->>>>>>> origin/master
             "hair_kitty_geeky": {
             "file": "file(hair_kitty_geeky.qb)"
             },
@@ -215,12 +235,9 @@
             "hair_kitty_rogue": {
             "file": "file(hair_kitty_rogue.qb)"
             },
-<<<<<<< HEAD
             "hair_kitty_simpcurls": {
             "file": "file(hair_kitty_simpcurls.qb)"
             },            
-=======
->>>>>>> origin/master
             "hair_kitty_simpleshag": {
             "file": "file(hair_kitty_simpleshag.qb)"
             },
