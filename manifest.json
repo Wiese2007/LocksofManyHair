@@ -7,6 +7,32 @@
     "default_locale" : "en",
      
     "overrides": {
+<<<<<<< HEAD
+        "/stonehearth/entities/humans/male/male_customizations.json": "/locksofmanyhair/entities/humans/male/male_customizations.json",
+        "/stonehearth/entities/humans/male/male_1.json": "/locksofmanyhair/entities/humans/male/male_1.json",
+        "/stonehearth/entities/humans/male/male_2.json": "/locksofmanyhair/entities/humans/male/male_2.json",        
+        "/stonehearth/entities/humans/male/male_3.json": "/locksofmanyhair/entities/humans/male/male_3.json",
+        "/stonehearth/entities/humans/female/female_customizations.json": "/locksofmanyhair/entities/humans/female/female_customizations.json",
+        "/stonehearth/entities/humans/female/female_1.json": "/locksofmanyhair/entities/humans/female/female_1.json",
+        "/stonehearth/entities/humans/female/female_2.json": "/locksofmanyhair/entities/humans/female/female_2.json",
+        "/stonehearth/entities/humans/female/female_3.json": "/locksofmanyhair/entities/humans/female/female_3.json",
+        "/stonehearth/data/materials/material_maps/hair_blue_material_map.json" : "file(/data/materials/material_maps/hair_blue_material_map.json)",
+        "/stonehearth/data/materials/material_maps/hair_crazy_material_map.json" : "file(/data/materials/material_maps/hair_crazy_material_map.json)",
+        "/stonehearth/data/materials/material_maps/hair_crazy2_material_map.json" : "file(/data/materials/material_maps/hair_crazy2_material_map.json)",
+        "/stonehearth/data/materials/material_maps/hair_flame_material_map.json" : "file(/data/materials/material_maps/hair_flame_material_map.json)",
+        "/stonehearth/data/materials/material_maps/hair_green_material_map.json" : "file(/data/materials/material_maps/hair_green_material_map.json)",
+        "/stonehearth/data/materials/material_maps/hair_grey_material_map.json" : "file(/data/materials/material_maps/hair_grey_material_map.json)",
+        "/stonehearth/data/materials/material_maps/hair_greyscale_material_map.json" : "file(/data/materials/material_maps/hair_greyscale_material_map.json)",
+        "/stonehearth/data/materials/material_maps/hair_icki_material_map.json" : "file(/data/materials/material_maps/hair_icki_material_map.json)",
+        "/stonehearth/data/materials/material_maps/hair_ice_material_map.json" : "file(/data/materials/material_maps/hair_ice_material_map.json)",
+        "/stonehearth/data/materials/material_maps/hair_lavender_material_map.json" : "file(/data/materials/material_maps/hair_lavender_material_map.json)",
+        "/stonehearth/data/materials/material_maps/hair_lime_material_map.json" : "file(/data/materials/material_maps/hair_lime_material_map.json)",
+        "/stonehearth/data/materials/material_maps/hair_orange_material_map.json" : "file(/data/materials/material_maps/hair_orange_material_map.json)",
+        "/stonehearth/data/materials/material_maps/hair_pink_material_map.json" : "file(/data/materials/material_maps/hair_pink_material_map.json)",
+        "/stonehearth/data/materials/material_maps/hair_purple_material_map.json" : "file(/data/materials/material_maps/hair_purple_material_map.json)",
+        "/stonehearth/data/materials/material_maps/hair_silver_material_map.json" : "file(/data/materials/material_maps/hair_silver_material_map.json)",
+        "/stonehearth/data/materials/material_maps/hair_white_material_map.json" : "file(/data/materials/material_maps/hair_white_material_map.json)"
+=======
 		"/stonehearth/entities/humans/male/male_customizations.json": "/locksofmanyhair-nc/entities/humans/male/male_customizations.json",
         "/stonehearth/entities/humans/male/male_1.json": "/locksofmanyhair-nc/entities/humans/male/male_1.json",
         "/stonehearth/entities/humans/male/male_2.json": "/locksofmanyhair-nc/entities/humans/male/male_2.json",
@@ -15,5 +41,6 @@
         "/stonehearth/entities/humans/female/female_1.json": "/locksofmanyhair-nc/entities/humans/female/female_1.json",
         "/stonehearth/entities/humans/female/female_2.json": "/locksofmanyhair-nc/entities/humans/female/female_2.json",
         "/stonehearth/entities/humans/female/female_3.json": "/locksofmanyhair-nc/entities/humans/female/female_3.json"
+>>>>>>> origin/master
     }
 }

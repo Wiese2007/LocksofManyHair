@@ -35,7 +35,27 @@
                "hair_color": {
                   "weights": {
                      "black": 3,
+<<<<<<< HEAD
+                     "brown": 1,
+                     "blue": 1,
+                     "green": 1,
+                     "grey": 1,
+                     "greyscvale": 1,
+                     "ice": 1,
+                     "icki": 1,
+                     "lavender": 1,
+                     "lime": 1,
+                     "orange": 1,
+                     "pink": 1,
+                     "purple": 1,
+                     "silver": 1,
+                     "crazy": 1,
+                     "crazy2": 1,
+                     "flame": 1,
+                     "white": 1
+=======
                      "brown": 1
+>>>>>>> origin/master
                   }
                },
                "skin_color": {

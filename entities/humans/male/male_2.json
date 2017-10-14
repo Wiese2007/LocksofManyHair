@@ -36,7 +36,27 @@
                   "weights": {
                      "black": 3,
                      "brown": 3,
+<<<<<<< HEAD
+                     "sandy": 1,
+                     "blue": 1,
+                     "green": 1,
+                     "grey": 1,
+                     "greyscvale": 1,
+                     "ice": 1,
+                     "icki": 1,
+                     "lavender": 1,
+                     "lime": 1,
+                     "orange": 1,
+                     "pink": 1,
+                     "purple": 1,
+                     "silver": 1,
+                     "crazy": 1,
+                     "crazy2": 1,
+                     "flame": 1,
+                     "white": 1
+=======
                      "sandy": 1
+>>>>>>> origin/master
                   }
                },
                "skin_color": {

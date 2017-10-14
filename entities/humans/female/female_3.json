@@ -35,7 +35,27 @@
                "hair_color": {
                   "weights": {
                      "black": 3,
+<<<<<<< HEAD
+                     "brown": 1,
+                     "blue": 1,
+                     "green": 1,
+                     "grey": 1,
+                     "greyscvale": 1,
+                     "ice": 1,
+                     "icki": 1,
+                     "lavender": 1,
+                     "lime": 1,
+                     "orange": 1,
+                     "pink": 1,
+                     "purple": 1,
+                     "silver": 1,
+                     "crazy": 1,
+                     "crazy2": 1,
+                     "flame": 1,
+                     "white": 1
+=======
                      "brown": 1
+>>>>>>> origin/master
                   }
                },
                "skin_color": {
@@ -72,6 +92,10 @@
                      "hair_kitty_fancyshaggy": 1,
                      "hair_kitty_fancyshave": 1,
                      "hair_kitty_fancyweave": 1,
+<<<<<<< HEAD
+                     "hair_kitty_frizzcurls":1,
+=======
+>>>>>>> origin/master
                      "hair_kitty_geeky": 1,
                      "hair_kitty_geeky2": 1,
                      "hair_kitty_long": 1,
@@ -80,6 +104,10 @@
                      "hair_kitty_queen": 1,
                      "hair_kitty_ribbons": 1,
                      "hair_kitty_rogue": 1,
+<<<<<<< HEAD
+                     "hair_kitty_simpcurls": 1,
+=======
+>>>>>>> origin/master
                      "hair_kitty_simpleshag": 1,
                      "hair_kitty_workout": 1,
                      "hair_kitty_xena": 1,
