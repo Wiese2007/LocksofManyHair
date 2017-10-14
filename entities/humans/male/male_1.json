@@ -39,7 +39,6 @@
                      "red": 1,
                      "sandy": 1,
                      "blonde": 1,
-<<<<<<< HEAD
                      "platinum": 1,
                      "blue": 1,
                      "green": 1,
@@ -57,9 +56,6 @@
                      "crazy2": 1,
                      "flame": 1,
                      "white": 1
-=======
-                     "platinum": 1
->>>>>>> origin/master
                   }
                },
                "skin_color": {
@@ -95,6 +91,9 @@
                      "beard_kitty_Sensei": 1,
                      "beard_kitty_talian": 1,
                      "beard_kitty_theEpic": 1,
+                     "beard_kitty_zealot1": 1,
+					 "beard_kitty_zealot2": 1,
+					 "beard_kitty_zealot3": 1,
                      "beard_kitty_Zzcot": 1
                   }
                },
@@ -118,14 +117,19 @@
                      "hair_kitty_monkcut": 1,
                      "hair_kitty_newsboy": 1,
                      "hair_kitty_punkster": 1,
+                     "hair_kitty_quincy": 1,					 
                      "hair_kitty_shaggy": 1,
                      "hair_kitty_shaggyoldmann": 1,
                      "hair_kitty_simple": 1,
                      "hair_kitty_slickhawk": 1,
                      "hair_kitty_spiky": 1,
+                     "hair_kitty_spiralcurl": 1,					 
                      "hair_kitty_splithairsonality": 1,
                      "hair_kitty_talian": 1,
-                     "hair_kitty_warriorbraid": 1,
+                     "hair_kitty_spiralcurl": 1,					 
+                     "hair_kitty_warriorrainbow": 1,
+                     "hair_kitty_creepyzealot1": 1,					 
+                     "hair_kitty_creepyzealot2": 1,
                      "hair_mel_fauxhawk_right": 1,
                      "hair_wiese_japan": 1
                   }
@@ -190,11 +194,7 @@
                      "hair_wiese_japan": 1
                   }
                }
-<<<<<<< HEAD
             }
-=======
-            }  
->>>>>>> origin/master
          }
       }
    }

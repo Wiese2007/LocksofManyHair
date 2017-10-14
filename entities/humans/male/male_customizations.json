@@ -27,7 +27,6 @@
             },
             "platinum":  {
                "file": "/stonehearth/data/materials/material_maps/hair_platinum_material_map.json"
-<<<<<<< HEAD
             },
             "blue":  {
                "file": "/locksofmanyhair/data/materials/material_maps/hair_blue_material_map.json"
@@ -76,8 +75,6 @@
             },
             "white":  {
                "file": "/locksofmanyhair/data/materials/material_maps/hair_white_material_map.json"
-=======
->>>>>>> origin/master
             }
          }
       },
@@ -152,6 +149,15 @@
             "beard_kitty_theEpic": {
                "file": "file(beard_kitty_theEpic.qb)"
             },
+            "beard_kitty_zealot1": {
+               "file": "file(beard_kitty_zealot1.qb)"
+            },		
+            "beard_kitty_zealot2": {
+               "file": "file(beard_kitty_zealot2.qb)"
+            },
+            "beard_kitty_zealot3": {
+               "file": "file(beard_kitty_zealot3.qb)"
+            },			
             "beard_kitty_Zzcot": {
                "file": "file(beard_kitty_Zzcot.qb)"
             }
@@ -234,6 +240,9 @@
             "hair_kitty_newsboy": {
                "file": "file(hair_kitty_newsboy.qb)"
             },
+            "hair_kitty_quincy": {
+               "file": "file(hair_kitty_quincy.qb)"
+            },			
             "hair_kitty_punkster": {
                "file": "file(hair_kitty_punkster.qb)"
             },
@@ -252,6 +261,18 @@
             "hair_kitty_spiky": {
                "file": "file(hair_kitty_spiky.qb)"
             },
+			"hair_kitty_spiralcurl": {
+            "file": "file(hair_kitty_spiralcurl.qb)"
+            },
+            "hair_kitty_warriorrainbow": {
+               "file": "file(hair_kitty_warriorrainbow.qb)"
+            },
+            "hair_kitty_creepyzealot1": {
+               "file": "file(hair_kitty_creepyzealot1.qb)"
+            },			
+            "hair_kitty_creepyzealot2": {
+               "file": "file(hair_kitty_creepyzealot2.qb)"
+            },			
             "hair_kitty_splithairsonality": {
                "file": "file(hair_kitty_splithairsonality.qb)"
             },
