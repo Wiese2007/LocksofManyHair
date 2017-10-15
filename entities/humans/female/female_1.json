@@ -127,11 +127,14 @@
             "luxury": {
                "weights": {
                   "necklace": 1,
+                  "bejeweledspecs": 1,
                   "bunnypendant": ,
+                  "cuffcolar": 1,
                   "jewelset": 1,
                   "largemdant": 1,
                   "sheepling": 1,
-                  "simplecollar": 1
+                  "simplecollar": 1,
+                  "veilthulu": 1
                }
             },
             "accessory": {

@@ -276,11 +276,17 @@
         	   "[none]": {
                "file": ""
             },
+            "bejeweledspecs": {
+               "file": "file(KoD_bejeweledspecs.qb)"
+            },
          	"necklace": {
                "file": "file(KoD_necklace.qb)"
             },
          	"bunnypendant": {
                "file": "file(KoD_bunnypendant.qb)"
+            },
+            "cuffcolar": {
+               "file": "file(KoD_cuffcollar.qb)"
             },
          	"jewelset": {
                "file": "file(KoD_jewelset.qb)"
@@ -293,6 +299,9 @@
             },
          	"simplecollar": {
                "file": "file(KoD_simplecollar.qb)"
+            },
+            "veilthulu": {
+               "file": "file(KoD_veilthulu.qb)"
             }
          } 
       },
