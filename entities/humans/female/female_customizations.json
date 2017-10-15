@@ -235,6 +235,9 @@
             "hair_kitty_rogue": {
             "file": "file(hair_kitty_rogue.qb)"
             },
+            "hair_kitty_sideswoop": {
+            "file": "file(hair_kitty_sideswoop.qb)"
+            }, 
             "hair_kitty_simpcurls": {
             "file": "file(hair_kitty_simpcurls.qb)"
             },            
