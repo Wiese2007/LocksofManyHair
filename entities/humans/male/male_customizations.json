@@ -96,7 +96,7 @@
          "type": "model",
          "values": {
             "[none]": {
-               "file": ""
+            "file": ""
             },
             "chin_beard": {
                "file": "file(chin_beard.qb)"

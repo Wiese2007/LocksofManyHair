@@ -98,7 +98,7 @@
          "type": "model",
          "values": {
             "[none]": {
-               "file": ""
+            "file": ""
                },
             "hair_1": {
                "file": "file(hair_1.qb)"
